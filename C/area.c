@@ -6,6 +6,4 @@
 //	printf("%.2f",area);
 //}
 
-int main(){
-	float r,area;
-}
+
